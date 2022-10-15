@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Kamehamemoonkin
+## Version: 0.1
+## Notes: Kamehamemoonkin - A Kamehameha Sound for Moonkin
+## DefaultState: Enabled
+## LoadOnDemand: 0
+Kamehamemoonkin.lua
